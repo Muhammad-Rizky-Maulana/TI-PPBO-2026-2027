@@ -17,7 +17,7 @@ public class ArrayDemo {
 
         System.out.println("----Menggunakan enhanced for----");
         for (int n : nilai) {
-            System.out.println(n);
+
         }
     }
 }
